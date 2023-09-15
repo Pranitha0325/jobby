@@ -1,0 +1,17 @@
+.bg-container-jobDetails{
+    background-color:black;
+    background-size:cover;
+    height:100vh;
+    color:white;
+    padding-top:120px;
+}
+.life-at-company{
+    display:flex;
+}
+.skills{
+    display:flex;
+    list-style:none;
+    flex-wrap:wrap;
+    width:300px;
+    justify-content: space-around;
+}

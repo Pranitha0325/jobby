@@ -1,0 +1,22 @@
+.bg-container-home{
+    background-image:url("https://assets.ccbp.in/frontend/react-js/home-lg-bg.png");
+    height:100vh;
+    background-size:cover;
+    width:100vw;
+    color:white;
+    display:flex;
+    flex-direction:column;
+}
+.card{
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    width:350px;
+    padding:20px;
+}
+.button{
+    background-color: rgb(105, 105, 248);
+    color:white;
+    padding:10px;
+    border-radius:5px;
+}

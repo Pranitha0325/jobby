@@ -1,0 +1,31 @@
+.company-logo{
+    height:50px;
+}
+.job-card{
+    background-color: #202020;
+    border-radius:10px;
+    padding:10px;
+    margin-bottom:5px;
+    width:500px;
+}
+.heading{
+    padding-left:5px;
+    display:flex;
+}
+.title{
+    font-size:15px;
+}
+.location{
+    display:flex;
+    flex-direction:space-around;
+    width:500px;
+    align-items:center;
+}
+.star{
+    color:#fbbf24;
+}
+.stars{
+    display:flex;
+    flex-direction:center;
+    align-items:center;
+}

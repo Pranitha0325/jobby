@@ -1,0 +1,60 @@
+.bg-container-jobs{
+    background-color:black;
+    background-size:cover;
+    width:100vw;
+    color:white;
+    display:flex;
+}
+.profile{
+    padding-top:100px;
+    background-image:url("https://assets.ccbp.in/frontend/react-js/profile-bg.png");
+    width:200px;
+
+}
+.name{
+    color:#6366f1;
+    margin-bottom:0px;
+}
+.bio{
+    color:#2c364c;
+    margin-top:0px;
+}
+.break{
+    width:300px;
+}
+.list-items{
+    list-style:none;
+    display:flex;
+    flex-direction:column;
+}
+.heading{
+    padding-left:30px;
+}
+.items{
+    display:flex;
+    margin-bottom:0px;
+}
+.jobs-page{
+    display:flex;
+    color:white;
+}
+.job-details{
+    margin-top:95px;
+    margin-left:50px;
+}
+.search-icon{
+    background-color:transparent;
+    color:white;
+}
+.job-card{
+    background-color: #202020;
+    border-radius:10px;
+    padding:10px;
+    margin-bottom:5px;
+}
+.jobs-list{
+  list-style:none;
+}
+.company-logo{
+    height:20px;
+}
